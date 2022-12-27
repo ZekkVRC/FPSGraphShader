@@ -1,4 +1,4 @@
-﻿Shader "Unlit/FPS CRT Driver"
+﻿Shader "Zekk/FPSGraph/FPS CRT Driver"
 {
     // Made by Zekk#5814.
     Properties

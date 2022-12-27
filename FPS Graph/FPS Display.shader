@@ -1,4 +1,4 @@
-﻿Shader "Unlit/FPS Display"
+﻿Shader "Zekk/FPSGraph/FPS Display"
 {
     Properties
     {
