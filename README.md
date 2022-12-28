@@ -20,6 +20,6 @@ To change the starting color that shows when first loading it (the color that is
 This shader displays local FPS. So others will see their FPS graph, not yours. 
 
 
-This shader can be used to display arbitrary data, simply animate the "Debug FPS" float. As long as the value is not -1, it will use the value of the float as the value it adds to the graph.
+~~This shader can be used to display arbitrary data, simply animate the "Debug FPS" float. As long as the value is not -1, it will use the value of the float as the value it adds to the graph.~~ (For now this may not be possible actually, If I find a way to get it working Ill update this).
 
 If you have any questions feel free to contact me on discord: Zekk#5814.
